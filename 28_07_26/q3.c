@@ -1,4 +1,4 @@
-/* Q2) WACP to store n elems in 1D array then swap the content of array and finally display the content after swapping. Don't use temporary array.
+/* Q3) WACP to store n elems in 1D array then swap the content of array and finally display the content after swapping. Don't use temporary array.
 */
 # include <stdio.h>
 # define max 50
